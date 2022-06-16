@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @liamsgreen
+- 👀 I’m interested in Software (evidently), Frontend/Backend 
+- 🌱 I’m currently learning C#, PHP (Laravel) and ReactJS
+- 💞️ I’m looking for Software Developer roles!
+- 📫 How to reach me https://www.linkedin.com/in/liam-green-nz/ 
